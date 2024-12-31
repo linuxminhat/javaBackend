@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<<< HEAD:2.ifElse - Copy/.project
 	<name>ifelse</name>
+========
+	<name>challenge_array</name>
+>>>>>>>> 50d07bf59fb8262170fcffca26b60a36f482a7da:4.array/src/challenge/.project
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +20,11 @@
 	</natures>
 	<filteredResources>
 		<filter>
+<<<<<<<< HEAD:2.ifElse - Copy/.project
 			<id>1731725735622</id>
+========
+			<id>1732598179396</id>
+>>>>>>>> 50d07bf59fb8262170fcffca26b60a36f482a7da:4.array/src/challenge/.project
 			<name></name>
 			<type>30</type>
 			<matcher>
