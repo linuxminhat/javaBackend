@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module challenge_array {
-}
